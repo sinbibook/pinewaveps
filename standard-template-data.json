@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-09-29T09:02:24.754185917Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-09-29T09:04:01.941488446Z",
     "templateType": "trip_f",
     "propertyId": "9d324761-8a6b-49c1-8aa2-8659525fe1c2",
     "homepageId": "01a0a8e9-77f2-7566-b022-5e61b310912a"
@@ -2752,9 +2752,17 @@
                 "title": "Pine Wave",
                 "images": [
                   {
+                    "id": "01a0ec68-1135-70fc-a715-410f715b4e9c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0a8e9-77f2-7566-b022-5e61b310912a/index_essence/1790672638043-absmcgqaec.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
                     "id": "01a0a8e9-d067-715d-93cb-2ee412856d9d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0a8e9-77f2-7566-b022-5e61b310912a/index_essence/1789540269479-hesxwohng7.jpg",
-                    "sortOrder": 0,
+                    "sortOrder": 1,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
