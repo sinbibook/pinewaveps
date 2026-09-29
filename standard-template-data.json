@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-09-29T08:59:40.294133610Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-09-29T09:01:25.270697078Z",
     "templateType": "trip_f",
     "propertyId": "9d324761-8a6b-49c1-8aa2-8659525fe1c2",
     "homepageId": "01a0a8e9-77f2-7566-b022-5e61b310912a"
@@ -3203,8 +3203,8 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "01a0a8e9-d07e-792c-9a9a-cce02dac878f",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0a8e9-77f2-7566-b022-5e61b310912a/reservation_hero/1789540270698-cftibk1gg2.jpg",
+                    "id": "01a0ec65-b524-779e-b229-04a50b1efff8",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0a8e9-77f2-7566-b022-5e61b310912a/reservation_hero/1790672483350-38g0dvl5sm.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
