@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-09-29T09:05:00.007900994Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-10-08T08:26:57.593510211Z",
     "templateType": "trip_f",
     "propertyId": "9d324761-8a6b-49c1-8aa2-8659525fe1c2",
     "homepageId": "01a0a8e9-77f2-7566-b022-5e61b310912a"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 21시 00분\n※ 17시 이후 체크인 시 사전 문의 필수(셀프체크인진행)\n※ 18시 이후에 숙소에 확인 연락 없이 현장에 오시는 경우 입실 못해도 환불 불가합니다.\n※ 침구 추가는 17시 이전 부탁드립니다. (18시 이후 침구 추가가 제한되는 점 참고 부탁드립니다.)\n※ 규정 인원을 초과할 경우 체크인 시 환불 없이 예약이 취소될 수 있으니, 예약 전 이용 인원을 반드시 확인해 주시기 바랍니다.",
-    "usageGuide": "※ 규정 인원을 초과할 경우 체크인 시 환불 없이 예약이 취소될 수 있으니, 예약 전 이용 인원을 반드시 확인해 주시기 바랍니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 21시 00분\n※ 17시 이후 체크인 시 사전 문의 필수(셀프체크인진행)\n※ 18시 이후에 숙소에 확인 연락 없이 현장에 오시는 경우 입실 못해도 환불 불가합니다.\n※ 침구 추가는 17시 이전 부탁드립니다. (18시 이후 침구 추가가 제한되는 점 참고 부탁드립니다.)\n※ 규정 인원을 초과할 경우 체크인 시 환불 없이 예약이 취소될 수 있으니, 예약 전 이용 인원을 반드시 확인해 주시기 바랍니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 12개월 이상~8세 미만\n- 유아: 12개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 1인 20,000원\n(1박기준/현장결제)\n- 영유아 기준인원 포함 및 추가요금 발생 / 최대인원 초과 절대불가\n- 추가인원비(1인/1박기준): 영유아포함 20,000원 현장결제(침구류 포함)\n- 숙박이아닌 입실기준이며,[숙박을 하지않고 입실만 하셔도 추가인원 입실비용발생됩니다.]\n※ B동 커플룸 : 성인만 이용 시 최대 2인만 입실가능 (가족단위 아닌 성인2인 기준인원 초과시 환불없이 취소될수 있습니다.)/가족단위 유아포함 시 최대 4인\n\n[개별바베큐]\n- 이용 객실:전 객실\n- 이용 장소:객실 내 개별 바베큐 공간\n- 바베큐 형태:전기그릴\n- 제공 구성:전기그릴\n※ 개인화기(그릴, 숯, 휴대용 버너 등) 사용 및 반입 금지\n- 이용 요금: 20,000(1박기준/현장결제)\n- 신청 시간: 15:00 ~ 17:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n- 강풍 시: 이용 가능\n\n[공용수영장]\n- 이용 객실:전 객실\n- 운영 계절: 하절기\n- 운영 기간:2026년 6월 1일 ~ 2026년 8월 31일\n※ 수영장 오픈 및 종료 일자는 현장 상황에 따라 변동될 수 있습니다.\n- 이용 요금:무료\n- 이용 시간: 15:00 ~ 21:00\n※ 연박 고객님은 다음날 오후 12시부터 이용이 가능하십니다. (수영장 정비 시간 있음)\n- 이용 복장:수영복, 래쉬가드\n\n[편의 및 주변 시설]\n- 엘리베이터 미보유\n- 와이파이 보유\n- 넷플릭스 이용 가능\n※ 넷플릭스 개인계정 필요\n\n[주변관광지]\n- 영일대\n- 호미곶\n- 해안도\n\n[주차장]\n- 주자창 보유\n- 전기차 충전기 이용 가능\n\n[교통편]\n※ 서울 - 포항\n - 강남터미널 에서 포항으로 가는 고속버스 06:00~19:00시 까지 20~30분 간격으로 운행\n - 심야고속은 22시30분, 23시, 23시30분, 자정에 운행(5시간 소요)\n\n※ 대구-포항\n - 대구 동부시외버스터미널 에서 포항으로 가는 버스 수시로 운행(1시간 20분 소요)\n\n※ 포항에서 오시는 길\n - 좌석(시외버스터미널) : 200번 버스(양덕, 호미곶)\n - 지선 : 구룡포 - 양포(방포삼거리 환승) - 하정1리에서 하차",
+    "usageGuide": "[공지사항]\n※ 규정 인원을 초과할 경우 체크인 시 환불 없이 예약이 취소될 수 있으니, 예약 전 이용 인원을 반드시 확인해 주시기 바랍니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 21시 00분\n※ 17시 이후 체크인 시 사전 문의 필수(셀프체크인진행)\n※ 18시 이후에 숙소에 확인 연락 없이 현장에 오시는 경우 입실 못해도 환불 불가합니다.\n※ 침구 추가는 17시 이전 부탁드립니다. (18시 이후 침구 추가가 제한되는 점 참고 부탁드립니다.)\n※ 규정 인원을 초과할 경우 체크인 시 환불 없이 예약이 취소될 수 있으니, 예약 전 이용 인원을 반드시 확인해 주시기 바랍니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 12개월 이상~8세 미만\n- 유아: 12개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n- 영유아 기준인원 포함 및 추가요금 발생 / 최대인원 초과 절대불가\n- 추가인원비(1인/1박기준): 영유아포함 20,000원 현장결제(침구류 포함)\n- 숙박이아닌 입실기준이며,[숙박을 하지않고 입실만 하셔도 추가인원 입실비용발생됩니다.]\n※ B동 커플룸 : 성인만 이용 시 최대 2인만 입실가능 (가족단위 아닌 성인2인 기준인원 초과시 환불없이 취소될수 있습니다.)/가족단위 유아포함 시 최대 4인\n\n[개별바베큐]\n- 이용 객실:전 객실\n- 이용 장소:객실 내 개별 바베큐 공간\n- 바베큐 형태:전기그릴\n- 제공 구성:전기그릴\n※ 개인화기(그릴, 숯, 휴대용 버너 등) 사용 및 반입 금지\n- 이용 요금: 20,000(1박기준/현장결제)\n- 신청 시간: 15:00 ~ 17:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n- 강풍 시: 이용 가능\n\n[공용수영장]\n- 이용 객실:전 객실\n- 운영 계절: 하절기\n- 운영 기간:2026년 6월 1일 ~ 2026년 8월 31일\n※ 수영장 오픈 및 종료 일자는 현장 상황에 따라 변동될 수 있습니다.\n- 이용 요금:무료\n- 이용 시간: 15:00 ~ 21:00\n※ 연박 고객님은 다음날 오후 12시부터 이용이 가능하십니다. (수영장 정비 시간 있음)\n- 이용 복장:수영복, 래쉬가드\n\n[편의 및 주변 시설]\n- 엘리베이터 미보유\n- 와이파이 보유\n- 넷플릭스 이용 가능\n※ 넷플릭스 개인계정 필요\n\n[주변관광지]\n- 영일대\n- 호미곶\n- 해안도\n\n[주차장]\n- 주자창 보유\n- 전기차 충전기 이용 가능\n\n[교통편]\n※ 서울 - 포항\n - 강남터미널 에서 포항으로 가는 고속버스 06:00~19:00시 까지 20~30분 간격으로 운행\n - 심야고속은 22시30분, 23시, 23시30분, 자정에 운행(5시간 소요)\n\n※ 대구-포항\n - 대구 동부시외버스터미널 에서 포항으로 가는 버스 수시로 운행(1시간 20분 소요)\n\n※ 포항에서 오시는 길\n - 좌석(시외버스터미널) : 200번 버스(양덕, 호미곶)\n - 지선 : 구룡포 - 양포(방포삼거리 환승) - 하정1리에서 하차",
     "reservationGuide": "※ 규정 인원을 초과할 경우 체크인 시 환불 없이 예약이 취소될 수 있으니, 예약 전 이용 인원을 반드시 확인해 주시기 바랍니다.",
     "province": "도/시",
     "city": "시/군/구",
@@ -304,7 +304,7 @@
           {
             "id": "0f0ca0c5-79f1-4815-a677-7b93aa2c2264",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/29/oK3n8wCMIALc.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -314,7 +314,7 @@
           {
             "id": "ea0186f0-2e60-4ac6-b47c-c0895184be4d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/29/qboRCai3hvwz.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -322,7 +322,7 @@
           {
             "id": "064782d6-3a84-42d1-bf7e-7119d456ad2a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/29/fklvHpTLU45W.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -330,7 +330,7 @@
           {
             "id": "3bcb4a0d-8046-4fb2-a09f-07331e129811",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/29/U82difSLEoC4.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -338,7 +338,7 @@
           {
             "id": "01a0ec2e-6ba0-79fa-a4c3-37e294cd5ec9",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/29/BLasGxH1CpDP.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -346,7 +346,7 @@
           {
             "id": "f413c833-4f80-4da3-8307-c7f91a2165a9",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/29/OP3nszyrkugp.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -354,7 +354,7 @@
           {
             "id": "efcd13d4-6518-4ff3-abb9-0eab740bab62",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/29/wMVxz0LGu6Y8.jpg",
-            "sortOrder": 5,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -362,7 +362,7 @@
           {
             "id": "38c7ea04-5e17-418e-9f3e-60d737261967",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/29/Ft39PTISzgql.jpg",
-            "sortOrder": 6,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -370,7 +370,7 @@
           {
             "id": "42796573-baab-4533-bec7-1551fab30b18",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/09/gdqFZ80t6DaA.jpg",
-            "sortOrder": 7,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -378,7 +378,7 @@
           {
             "id": "01a0ec2e-6ba1-7101-ac9a-ceac64d03680",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/29/gHzWhmQsVMCK.jpg",
-            "sortOrder": 8,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -386,7 +386,7 @@
           {
             "id": "01a0ec2e-6ba1-71b7-a686-13cbd633a501",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/29/4a3pu9EroIgL.jpg",
-            "sortOrder": 9,
+            "sortOrder": 11,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -3344,9 +3344,30 @@
             ],
             "slider": false,
             "enabled": true,
-            "endDate": null,
+            "endDate": "2027-12-30",
             "sortOrder": 1,
-            "startDate": null,
+            "startDate": "2026-12-01",
+            "description": ""
+          },
+          {
+            "id": "c0467bb9-762e-465e-aabd-a3de77bfcaa2",
+            "link": "",
+            "title": "",
+            "images": [
+              {
+                "id": "01a11a9f-63b2-7caf-a665-5c2a0a6f51fc",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0a8e9-77f2-7566-b022-5e61b310912a/popup/1791448015393-2s53t7x8pb.jpg",
+                "sortOrder": 2,
+                "description": "",
+                "isSelected": true,
+                "blockId": "c0467bb9-762e-465e-aabd-a3de77bfcaa2"
+              }
+            ],
+            "slider": false,
+            "enabled": true,
+            "endDate": "2026-11-30",
+            "sortOrder": 2,
+            "startDate": "2026-10-08",
             "description": ""
           }
         ]
